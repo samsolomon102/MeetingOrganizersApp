@@ -1,0 +1,2 @@
+module MeetingOrganizerListsHelper
+end

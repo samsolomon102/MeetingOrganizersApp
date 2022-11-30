@@ -1,0 +1,2 @@
+class MeetingOrganizerList < ApplicationRecord
+end
